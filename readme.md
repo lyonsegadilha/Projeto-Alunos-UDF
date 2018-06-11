@@ -14,7 +14,7 @@ No prompt de comando, execute os seguintes comandos:
 ``` 
  $ git clone https://github.com/lyonsegadilha/Projeto-Alunos-UDF.git
  $ cd Projeto-Alunos-UDF
- $ cp .env.example .env (edit it with your secret key and database information)
+ $ cp .env.example .env (editá-lo com sua chave secreta e informações do banco de dados)
  $ npm install
  $ npm run migrate
  ```
