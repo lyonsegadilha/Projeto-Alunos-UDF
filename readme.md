@@ -1,42 +1,42 @@
 MySQL, Express, React/Redux and Node Boilerplate in ES6/ES7
 
-## Get Started
+## Iniciando o projeto
 
-### 1. Prerequisites
+### 1. Pré-requisitos
 
 - [NodeJs](https://nodejs.org/en/)
 - [NPM](https://npmjs.org/) - Node package manager
 
-### 2. Installation
+### 2. Instalação
 
-On the command prompt run the following commands:
+No prompt de comando, execute os seguintes comandos:
 
 ``` 
- $ git clone https://github.com/Bikranshu/express-react-boilerplate.git
- $ cd express-react-boilerplate
+ $ git clone https://github.com/lyonsegadilha/Projeto-Alunos-UDF.git
+ $ cd Projeto-Alunos-UDF
  $ cp .env.example .env (edit it with your secret key and database information)
  $ npm install
  $ npm run migrate
  ```
- Finally, start and build the application:
+ Finalmente, inicie e construa a aplicação:
  
  ```
- $ npm run build (For development)
- $ npm run build:prod (For production)
+ $ npm run build (Para desenvolvimento)
+ $ npm run build:prod (Para produção)
 ```
 
-List of NPM Commands:
+Lista de comandos do NPM:
  
   ```
   $ npm run lint       # linting
-  $ npm run clean      # remove dist and node_modules folder and install dependencies
+  $ npm run clean      # remova a pasta dist e node_modules e instale as dependências
  ```
 
-### 3. Usage
+### 3. Uso
 
 URL : http://localhost:3000/
 
-Navigate to http://localhost:3000/swagger for the API documentation.
+Navegar para http://localhost:3000/swagger para a documentação da API.
 
 ### 4. Useful Link
 - Web framework for Node.js - [Express](http://expressjs.com/)
