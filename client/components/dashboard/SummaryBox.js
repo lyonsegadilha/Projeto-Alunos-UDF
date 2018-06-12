@@ -7,7 +7,7 @@ import Paper from 'material-ui/Paper';
 const styles = theme => ({
     root: {
         padding: '5px 10px',
-        marginLeft: 90,
+        marginLeft: 150,
         height: 80
     },
     number: {
